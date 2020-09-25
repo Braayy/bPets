@@ -1,0 +1,9 @@
+name: '${project.artifactId}'
+main: '${project.groupId}.Pets'
+version: '${project.version}'
+author: 'Braayy'
+
+commands:
+  pet:
+    description: 'Show the Pet GUI'
+    aliases: [ 'pets' ]

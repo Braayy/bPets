@@ -1,0 +1,8 @@
+gui:
+  pet:
+    select-name: '&cType your pet name in the chat!'
+    invalid-name: '&cYour pet''s name is invalid!'
+    forgot-name: '&cYou forgot to put the name of your pet!'
+    forgot-type: '&cYou forgot to put the type of your pet!'
+    success: '&aYou''ve create the {name}'
+    success-edit: '&aYou''ve edited {name}'
